@@ -186,8 +186,8 @@ section .sec_img {
 }
 
 .box1{
-    height: 350px;
-    width: 400px;
+    height: 450px;
+    width: 450px;
     background-color: black;
     margin: 70px auto;
     opacity: .7;
