@@ -165,6 +165,7 @@ section .sec_img {
     background-image: url("images/1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    padding-top: 50px;
     
 }
 
