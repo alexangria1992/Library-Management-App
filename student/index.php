@@ -52,13 +52,17 @@
             </div>
         </div>
     </section>
-    <footer>
+    <!-- <footer>
           <p style="color: white; text-align: center;">
             <br><br>
               Email: &nbsb Online.library@gmail.com <br><br>
               Mobile: &nbsp +880171****
           </p>
-    </footer>
+    </footer> -->
+    <?php include "footer.php"
+
+    ?>
 </div>
+
 </body>
 </html>
